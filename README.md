@@ -1,4 +1,7 @@
 <h1 align="center">🧠 Enter My Mindspace</h1>
+<img width="736" height="414" alt="_" src="https://github.com/user-attachments/assets/f8fbba02-2fc6-4a6c-b873-4a62465202a8" />
+
+
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Developer;Bioinformatics+Explorer;AI+Learner;Psychological+Storyteller;Decoding+Life+Through+Code" /> </p>
 
